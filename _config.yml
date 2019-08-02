@@ -3,12 +3,12 @@ title: John Guerra
 baseurl: "/"
 permalink: "/:title/"
 layout_style: overflow
-palette: blue
+palette: orange
 header:
   title: Stackbit Fresh
   tagline: Header Tagline
-  profile_img: images/avatar.png
-  bg: dark
+  profile_img: "/images/John@TID .png"
+  bg: light
   has_nav: true
   has_social: true
 footer:
